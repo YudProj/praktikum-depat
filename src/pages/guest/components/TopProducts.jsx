@@ -1,4 +1,4 @@
-import productsData from '/src/assets/TopProducts.json';
+import productsData from '/yudha-app/src/assets/topProducts.json';
 
 function TopProducts() {
   return (
